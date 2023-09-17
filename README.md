@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Name: React Website 1 (react-website1)
 
-Currently, two official plugins are available:
+A practice responsive website built using ReactJS + Vite. Meant to develop my skills in React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The website is a small travel website which features a navbar, main ad, additonal demo pages (3 - Products, Services, and Sign Up), and 5 cards containing travel destinations with short descriptions. Each of the cards links (same tab) to one of the demo pages.
